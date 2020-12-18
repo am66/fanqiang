@@ -1,5 +1,5 @@
-trojan://trojan123@1.453d.com：443#说明
+trojan://trojan123@sea.453d.com：443#说明
   
-trojan://7788aa@1.453d.com：443
+#trojan://7788aa@1.453d.com：443
   
-trojan://7788aa@1.453d.com：443
+#trojan://7788aa@1.453d.com：443
