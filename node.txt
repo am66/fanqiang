@@ -1,5 +1,7 @@
-trojan://778899@sea.453d.com：443#说明
+#trojan://778899@sea.453d.com：443#说明
   
 #trojan://7788aa@1.453d.com：443
   
 #trojan://7788aa@1.453d.com：443
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3dWxhYmluZ192aXAuNDUzZC5jb20iLAogICJhZGQiOiAidmlwLjQ1M2QuY29tIiwKICAicG9ydCI6ICI0NDMiLAogICJpZCI6ICIyODQ5NDNkYi1kOGFkLTQwYjgtYWQ1Yi01NWM2ZTJmMzFkZGUiLAogICJhaWQiOiAiMiIsCiAgIm5ldCI6ICJoMiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInBhdGgiOiAiL2Y1YjJjLyIsCiAgInRscyI6ICJ0bHMiCn0K
